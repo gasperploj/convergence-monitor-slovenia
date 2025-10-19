@@ -7,4 +7,4 @@ The convergence monitor compares the relative performance of Slovenia in:
 * productivity,
 * wages (nominal and PPP adjusted)
 
-The report is updated evergy Monday at around 11:30 CET via GitHub Actions.
+The report is updated every Monday at around 11:30 CET via GitHub Actions.
